@@ -1,6 +1,7 @@
 # ckanext-spatial-index-fix
 
 This extensions comes to provide temprorary fixes to CKAN Spatial plugin that isn't yet applied, but will be (probably) applied soon.
+Pull request to Spatial plugin: https://github.com/ckan/ckanext-spatial/pull/327
 
 By default, all the fixes are disabled. Check the **List of fixes** and **Config settings**
 section to understand how to disabled specific fix.
